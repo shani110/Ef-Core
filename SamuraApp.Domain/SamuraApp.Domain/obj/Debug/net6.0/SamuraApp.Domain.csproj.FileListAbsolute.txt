@@ -1,0 +1,5 @@
+C:\Users\Muhammad Isa\source\repos\SamuraApp.Domain\SamuraApp.Domain\obj\Debug\net6.0\SamuraApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Muhammad Isa\source\repos\SamuraApp.Domain\SamuraApp.Domain\obj\Debug\net6.0\SamuraApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\SamuraApp.Domain\SamuraApp.Domain\obj\Debug\net6.0\SamuraApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\SamuraApp.Domain\SamuraApp.Domain\obj\Debug\net6.0\SamuraApp.Domain.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\SamuraApp.Domain\SamuraApp.Domain\obj\Debug\net6.0\SamuraApp.Domain.csproj.CoreCompileInputs.cache
